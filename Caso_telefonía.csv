@@ -1,0 +1,121 @@
+Género;Edad;Llamadas;Minutos;Monto facturado;Tiempo de espera;Opinión;Sucursal
+Masculino;27;7;33;90.7;16.9;Regular;Suc. Este
+Femenino;28;4;31.7;95.7;1.5;Bueno;Suc. Este
+Femenino;24;9;31.4;99.3;2.8;Pésimo;Suc. Este
+Masculino;33;5;26.9;83.3;4.6;Pésimo;Suc. Este
+Masculino;21;4;35.5;97.3;3.5;Excelente;Suc. Este
+Masculino;28;7;39.9;114.5;4;Pésimo;Suc. Este
+Masculino;21;5;39.3;106;14.5;Muy Bueno;Suc. Este
+Femenino;29;3;37.8;99;2.7;Pésimo;Suc. Este
+Masculino;26;4;43.7;90.2;11.5;Bueno;Suc. Este
+Masculino;40;8;46.1;102.5;0.5;Pésimo;Suc. Este
+Masculino;40;4;37.6;92.2;1.3;Pésimo;Suc. Este
+Masculino;30;6;42;110.1;5.3;Bueno;Suc. Este
+Masculino;27;4;43;96.5;1.2;Bueno;Suc. Este
+Masculino;28;5;44.8;88.3;1.7;Excelente;Suc. Este
+Masculino;24;3;37.6;85.6;20.5;Muy Bueno;Suc. Este
+Femenino;26;4;27;89.7;0.8;Excelente;Suc. Norte
+Masculino;33;2;30.1;88.8;0.4;Muy Bueno;Suc. Norte
+Masculino;21;8;26;85.4;3.5;Bueno;Suc. Norte
+Femenino;23;8;34.1;89;4.7;Pésimo;Suc. Norte
+Masculino;34;1;30.1;77.1;2.2;Bueno;Suc. Norte
+Femenino;29;6;30.7;97.8;5.1;Pésimo;Suc. Norte
+Masculino;21;5;26.5;84;2.8;Regular;Suc. Norte
+Femenino;40;5;28.3;84.2;5.8;Muy Bueno;Suc. Norte
+Femenino;25;6;29.7;91.7;4.2;Excelente;Suc. Norte
+Femenino;38;5;32.5;74.1;0.8;Regular;Suc. Norte
+Femenino;35;4;24.7;88.8;9.5;Muy Bueno;Suc. Norte
+Femenino;31;6;24.8;91.6;2.6;Pésimo;Suc. Norte
+Femenino;28;7;32.2;80;4.5;Muy Bueno;Suc. Norte
+Femenino;26;0;26.7;88.4;1.3;Bueno;Suc. Norte
+Masculino;26;9;31.4;78.5;2.6;Muy Bueno;Suc. Norte
+Femenino;33;5;31.1;88.3;5.5;Pésimo;Suc. Norte
+Femenino;34;6;26.7;85.6;2.7;Bueno;Suc. Norte
+Femenino;22;6;34.1;88.6;11.5;Pésimo;Suc. Norte
+Femenino;26;6;27.2;78.8;0.5;Excelente;Suc. Norte
+Femenino;39;7;28.4;81.6;1.3;Excelente;Suc. Norte
+Masculino;31;0;49.6;86.3;5.3;Pésimo;Suc. Sur
+Femenino;22;7;28.6;83.8;1.2;Muy Bueno;Suc. Sur
+Femenino;28;4;37.3;90.7;1.7;Muy Bueno;Suc. Sur
+Femenino;35;5;33.9;95.7;20.5;Pésimo;Suc. Sur
+Masculino;22;3;38;99.3;3.3;Muy Bueno;Suc. Sur
+Femenino;40;4;41.7;83.3;0.3;Regular;Suc. Sur
+Femenino;34;1;38.3;97.3;1.7;Pésimo;Suc. Sur
+Masculino;28;3;41.3;88.1;13.4;Pésimo;Suc. Sur
+Masculino;28;5;39.2;81.9;10.1;Pésimo;Suc. Sur
+Femenino;32;2;40.5;83.8;2.8;Excelente;Suc. Sur
+Femenino;24;2;41.4;82.2;0.2;Excelente;Suc. Sur
+Femenino;34;3;38.2;91.5;3.8;Pésimo;Suc. Sur
+Femenino;20;3;48.6;82.8;16.5;Pésimo;Suc. Sur
+Masculino;34;3;33.2;94.3;3.9;Pésimo;Suc. Sur
+Femenino;20;2;41;96.5;26.6;Pésimo;Suc. Sur
+Femenino;29;7;41.7;78.8;2.4;Muy Bueno;Suc. Sur
+Masculino;31;4;37.8;83.3;27.9;Pésimo;Suc. Sur
+Masculino;22;4;38.5;95.6;0.3;Muy Bueno;Suc. Sur
+Masculino;38;4;44.1;78.3;8.8;Excelente;Suc. Sur
+Femenino;36;5;37.9;87.8;1.1;Regular;Suc. Sur
+Femenino;33;5;46.8;95.8;2.4;Bueno;Suc. Sur
+Femenino;36;1;47.5;84.7;2.5;Bueno;Suc. Sur
+Femenino;33;5;34.6;100.2;0.3;Muy Bueno;Suc. Sur
+Masculino;23;8;47.5;82.5;2.7;Excelente;Suc. Sur
+Masculino;35;2;35;82.6;22.7;Pésimo;Suc. Sur
+Femenino;24;8;36.8;94.5;4.5;Bueno;Suc. Sur
+Masculino;32;1;43.6;86.3;4.6;Bueno;Suc. Sur
+Masculino;32;3;35.2;88.3;8.2;Excelente;Suc. Sur
+Femenino;27;8;37.8;83.7;5.2;Regular;Suc. Sur
+Masculino;37;4;37.7;83.8;4;Muy Bueno;Suc. Sur
+Masculino;32;8;41.5;84.1;12.5;Pésimo;Suc. Centro
+Masculino;33;7;50.3;83.2;23.7;Pésimo;Suc. Centro
+Masculino;35;8;33.6;84.8;2.7;Regular;Suc. Centro
+Masculino;39;9;52;98.9;36;Pésimo;Suc. Centro
+Masculino;34;5;50.4;119.1;0.5;Excelente;Suc. Centro
+Masculino;38;8;36.2;103.4;1.6;Excelente;Suc. Centro
+Femenino;39;4;39.8;109.6;1.7;Regular;Suc. Centro
+Femenino;36;5;43.2;97.5;18.5;Pésimo;Suc. Centro
+Masculino;36;7;44.8;94.8;4.2;Excelente;Suc. Centro
+Femenino;38;8;41.2;93.1;23.7;Pésimo;Suc. Centro
+Masculino;24;10;53.8;108;5.3;Pésimo;Suc. Centro
+Femenino;36;8;43.6;101;3.5;Pésimo;Suc. Centro
+Femenino;27;6;40.7;89.6;3.2;Regular;Suc. Centro
+Femenino;39;6;48.5;102.2;13;Pésimo;Suc. Centro
+Femenino;31;6;57.7;106.7;0.4;Bueno;Suc. Centro
+Masculino;35;3;46;104;8.8;Regular;Suc. Centro
+Masculino;30;8;49.9;100.6;0.2;Bueno;Suc. Centro
+Femenino;35;7;47.5;104.1;6.2;Pésimo;Suc. Centro
+Masculino;29;2;59.6;78.9;13.6;Pésimo;Suc. Centro
+Masculino;31;6;55;101.6;4;Regular;Suc. Centro
+Masculino;28;6;32.6;114.6;0.5;Bueno;Suc. Centro
+Masculino;25;7;37.6;102.9;11.2;Pésimo;Suc. Centro
+Masculino;38;9;41.8;114.5;13;Pésimo;Suc. Centro
+Masculino;37;5;62.2;106;0.8;Bueno;Suc. Centro
+Masculino;32;4;45.6;100.6;2.2;Bueno;Suc. Centro
+Femenino;37;7;48.6;103;4.8;Excelente;Suc. Centro
+Masculino;25;5;39.7;110.5;2.2;Muy Bueno;Suc. Centro
+Femenino;26;3;25.7;112.4;4;Regular;Suc. Centro
+Masculino;40;4;40.4;90.7;16.9;Pésimo;Suc. Centro
+Femenino;40;8;46.3;112.5;1.5;Muy Bueno;Suc. Centro
+Masculino;30;4;43.6;108.3;2.8;Excelente;Suc. Centro
+Masculino;27;6;39.7;114.5;4.6;Regular;Suc. Centro
+Femenino;28;8;55.2;106;3.5;Bueno;Suc. Centro
+Masculino;24;13;39.1;99;4;Bueno;Suc. Centro
+Femenino;33;6;51.6;90.2;14.5;Pésimo;Suc. Centro
+Femenino;21;7;44.1;102.5;3.1;Pésimo;Suc. Centro
+Femenino;28;9;39;92.2;4.7;Excelente;Suc. Centro
+Femenino;21;8;52.2;110.1;3.9;Pésimo;Suc. Centro
+Masculino;29;3;53.6;96.5;6.6;Muy Bueno;Suc. Centro
+Masculino;36;2;36.3;92;11.7;Pésimo;Suc. Centro
+Masculino;34;0;24.3;84.2;2.6;Bueno;Suc. Este
+Masculino;28;7;30.1;91.7;5.5;Pésimo;Suc. Este
+Masculino;28;4;23.8;74.1;2.7;Pésimo;Suc. Este
+Masculino;32;5;17.5;88.8;11.5;Regular;Suc. Este
+Masculino;24;3;29.9;91.6;0.5;Bueno;Suc. Este
+Masculino;34;4;36.3;80;1.3;Pésimo;Suc. Este
+Femenino;20;1;31.8;88.4;5.3;Pésimo;Suc. Este
+Femenino;34;3;33;78.5;1.2;Bueno;Suc. Este
+Masculino;20;5;31.7;88.3;1.7;Bueno;Suc. Este
+Femenino;29;2;31.4;85.6;20.5;Excelente;Suc. Este
+Masculino;31;2;26.9;88.6;3.3;Muy Bueno;Suc. Este
+Masculino;22;3;17.5;78.8;0.3;Regular;Suc. Este
+Masculino;38;3;29.9;81.6;1.7;Pésimo;Suc. Este
+Masculino;36;3;36.3;86.3;2.2;Muy Bueno;Suc. Este
+Masculino;33;2;31.8;83.8;4;Excelente;Suc. Este
