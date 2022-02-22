@@ -4,13 +4,13 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 33;Empresario;Casado;Secundaria;no;8;si;si;Desconocido;5;mayo;76;1;-1;0;desconocido;no
 47;Obrero;Casado;Desconocido;no;6024;si;no;Desconocido;5;mayo;92;1;-1;0;desconocido;no
 33;Desconocido;Soltero;Desconocido;no;4;no;no;Desconocido;5;mayo;198;1;-1;0;desconocido;no
-35;Gerencia;Casado;Superior;no;924;si;no;Desconocido;5;mayo;139;1;-1;0;desconocido;no
+;Gerencia;Casado;Superior;no;924;si;no;Desconocido;5;mayo;139;1;-1;0;desconocido;no
 28;Gerencia;Soltero;Superior;no;1788;si;si;Desconocido;5;mayo;217;1;-1;0;desconocido;no
 42;Empresario;Divorciado;Superior;si;8;si;no;Desconocido;5;mayo;380;1;-1;0;desconocido;no
 58;;Casado;;no;484;si;no;Desconocido;;mayo;50;1;-1;0;desconocido;no
 43;Tecnico;Soltero;;no;2372;si;no;Desconocido;5;mayo;55;1;-1;0;desconocido;no
 41;Administrador;Divorciado;Secundaria;no;1080;;no;Desconocido;5;mayo;222;1;-1;0;desconocido;no
-29;Administrador;Soltero;Secundaria;no;1560;si;no;Desconocido;5;mayo;137;1;-1;0;desconocido;no
+;Administrador;Soltero;Secundaria;no;1560;si;no;Desconocido;5;mayo;137;1;-1;0;desconocido;no
 53;Tecnico;Casado;Secundaria;no;24;si;no;Desconocido;5;mayo;517;1;-1;0;desconocido;no
 58;Tecnico;Casado;;no;284;si;no;Desconocido;5;mayo;71;1;-1;0;desconocido;no
 57;Servicio;Casado;Secundaria;no;648;si;no;Desconocido;5;mayo;174;1;-1;0;desconocido;no
@@ -32,7 +32,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 57;Tecnico;Casado;Secundaria;no;3356;no;si;Desconocido;5;mayo;225;1;-1;0;desconocido;no
 49;Gerencia;Casado;Superior;no;1512;si;no;Desconocido;5;mayo;230;1;-1;0;desconocido;no
 60;Administrador;Casado;Secundaria;no;156;si;si;Desconocido;5;mayo;208;1;-1;0;desconocido;no
-59;Obrero;Casado;Secundaria;no;0;si;no;Desconocido;5;mayo;226;1;-1;0;desconocido;no
+;Obrero;Casado;Secundaria;no;0;si;no;Desconocido;5;mayo;226;1;-1;0;desconocido;no
 51;Gerencia;Casado;Superior;no;42540;si;no;Desconocido;5;mayo;336;1;-1;0;desconocido;no
 57;Tecnico;Divorciado;Secundaria;no;252;si;no;Desconocido;5;mayo;242;1;-1;0;desconocido;no
 25;Obrero;Casado;Secundaria;no;-28;si;no;Desconocido;5;mayo;365;1;-1;0;desconocido;no
@@ -50,8 +50,8 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 55;Tecnico;Divorciado;Secundaria;no;0;no;no;Desconocido;5;mayo;160;1;-1;0;desconocido;no
 29;Gerencia;Soltero;Superior;no;0;si;no;Desconocido;5;mayo;363;1;-1;0;desconocido;no
 54;Obrero;Casado;Secundaria;no;5164;si;no;Desconocido;5;mayo;266;1;-1;0;desconocido;no
-48;Gerencia;Divorciado;Superior;no;-976;si;no;Desconocido;5;mayo;253;1;-1;0;desconocido;no
-32;Gerencia;Casado;Superior;no;0;si;no;Desconocido;5;mayo;179;1;-1;0;desconocido;no
+;Gerencia;Divorciado;Superior;no;-976;si;no;Desconocido;5;mayo;253;1;-1;0;desconocido;no
+;Gerencia;Casado;Superior;no;0;si;no;Desconocido;5;mayo;179;1;-1;0;desconocido;no
 42;Administrador;Soltero;Secundaria;no;-304;si;no;Desconocido;5;mayo;787;1;-1;0;desconocido;no
 24;Tecnico;Soltero;Secundaria;no;-412;si;si;Desconocido;5;mayo;145;1;-1;0;desconocido;no
 38;Empresario;Soltero;Superior;no;972;no;si;Desconocido;5;mayo;174;1;-1;0;desconocido;no
@@ -70,7 +70,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 55;Tecnico;Casado;Secundaria;no;4820;si;no;Desconocido;5;mayo;158;2;-1;0;desconocido;no
 35;Obrero;Soltero;Secundaria;no;48892;si;si;Desconocido;5;mayo;177;1;-1;0;desconocido;no
 57;Obrero;Casado;Secundaria;no;23740;si;si;Desconocido;5;mayo;258;1;-1;0;desconocido;no
-31;Servicio;Casado;Secundaria;no;100;si;si;Desconocido;5;mayo;172;1;-1;0;desconocido;no
+;Servicio;Casado;Secundaria;no;100;si;si;Desconocido;5;mayo;172;1;-1;0;desconocido;no
 54;Gerencia;Casado;Secundaria;no;1128;si;si;Desconocido;5;mayo;154;1;-1;0;desconocido;no
 55;Obrero;Casado;Primaria;no;92;si;no;Desconocido;5;mayo;291;1;-1;0;desconocido;no
 43;Tecnico;Casado;Secundaria;no;7748;si;no;Desconocido;5;mayo;181;1;-1;0;desconocido;no
@@ -88,7 +88,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 56;Administrador;Casado;Secundaria;no;180;no;no;Desconocido;5;mayo;1467;1;-1;0;desconocido;si
 41;Tecnico;Casado;Secundaria;no;5080;si;no;Desconocido;5;mayo;1389;1;-1;0;desconocido;si
 46;Gerencia;Divorciado;Secundaria;no;64;si;si;Desconocido;5;mayo;188;2;-1;0;desconocido;no
-57;Jubilado;Casado;Secundaria;no;1944;si;no;Desconocido;5;mayo;180;2;-1;0;desconocido;no
+;Jubilado;Casado;Secundaria;no;1944;si;no;Desconocido;5;mayo;180;2;-1;0;desconocido;no
 42;Gerencia;Soltero;Secundaria;no;200;no;no;Desconocido;5;mayo;48;1;-1;0;desconocido;no
 30;Tecnico;Casado;Secundaria;no;608;si;si;Desconocido;5;mayo;213;2;-1;0;desconocido;no
 60;Administrador;Casado;Secundaria;no;1160;si;no;Desconocido;5;mayo;583;1;-1;0;desconocido;no
@@ -109,7 +109,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 34;Administrador;Casado;Secundaria;no;244;no;si;Desconocido;5;mayo;21;1;-1;0;desconocido;no
 59;Jubilado;Soltero;Secundaria;no;120;si;no;Desconocido;5;mayo;514;1;-1;0;desconocido;no
 45;Gerencia;Casado;Superior;no;2092;si;no;Desconocido;5;mayo;849;2;-1;0;desconocido;no
-29;Servicio;Divorciado;Secundaria;no;124;si;no;Desconocido;5;mayo;194;1;-1;0;desconocido;no
+;Servicio;Divorciado;Secundaria;no;124;si;no;Desconocido;5;mayo;194;1;-1;0;desconocido;no
 46;Tecnico;Divorciado;Secundaria;no;316;no;no;Desconocido;5;mayo;144;1;-1;0;desconocido;no
 56;Independiente;Casado;Primaria;no;-136;si;si;Desconocido;5;mayo;212;2;-1;0;desconocido;no
 36;Obrero;Casado;Primaria;no;1792;si;no;Desconocido;5;mayo;286;1;-1;0;desconocido;no
@@ -128,8 +128,8 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 29;Administrador;Soltero;Secundaria;no;3272;si;si;Desconocido;5;mayo;61;1;-1;0;desconocido;no
 34;Servicio;Casado;Secundaria;no;-64;si;si;Desconocido;5;mayo;78;1;-1;0;desconocido;no
 31;Obrero;Casado;Secundaria;no;0;si;no;Desconocido;5;mayo;143;1;-1;0;desconocido;no
-55;Servicio;Casado;Secundaria;no;9904;si;no;Desconocido;5;mayo;579;1;-1;0;desconocido;si
-55;Gerencia;Casado;Desconocido;no;4740;no;no;Desconocido;5;mayo;677;1;-1;0;desconocido;no
+;Servicio;Casado;Secundaria;no;9904;si;no;Desconocido;5;mayo;579;1;-1;0;desconocido;si
+;Gerencia;Casado;Desconocido;no;4740;no;no;Desconocido;5;mayo;677;1;-1;0;desconocido;no
 32;Administrador;Soltero;Secundaria;no;868;si;no;Desconocido;5;mayo;345;1;-1;0;desconocido;no
 38;Tecnico;Soltero;Secundaria;no;6740;si;no;Desconocido;5;mayo;185;1;-1;0;desconocido;no
 55;Administrador;Soltero;Secundaria;no;3208;si;si;Desconocido;5;mayo;100;2;-1;0;desconocido;no
@@ -164,8 +164,8 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 47;Servicio;Soltero;Secundaria;no;704;si;no;Desconocido;5;mayo;303;2;-1;0;desconocido;no
 40;Obrero;Casado;Secundaria;no;4900;si;no;Desconocido;5;mayo;558;5;-1;0;desconocido;no
 45;Tecnico;Casado;Secundaria;no;344;si;no;Desconocido;5;mayo;270;1;-1;0;desconocido;no
-26;Administrador;Soltero;Secundaria;no;328;si;no;Desconocido;5;mayo;228;1;-1;0;desconocido;no
-52;Gerencia;Casado;Superior;no;1084;si;no;Desconocido;5;mayo;99;1;-1;0;desconocido;no
+;Administrador;Soltero;Secundaria;no;328;si;no;Desconocido;5;mayo;228;1;-1;0;desconocido;no
+;Gerencia;Casado;Superior;no;1084;si;no;Desconocido;5;mayo;99;1;-1;0;desconocido;no
 54;Tecnico;Casado;Secundaria;no;5512;si;no;Desconocido;5;mayo;240;1;-1;0;desconocido;no
 54;Administrador;Casado;Superior;no;736;no;no;Desconocido;5;mayo;673;2;-1;0;desconocido;si
 50;Obrero;Casado;Primaria;no;0;no;no;Desconocido;5;mayo;233;3;-1;0;desconocido;no
@@ -182,11 +182,11 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 31;Servicio;Casado;Superior;no;148;si;no;Desconocido;5;mayo;313;1;-1;0;desconocido;no
 35;Tecnico;Divorciado;Secundaria;no;3148;si;no;Desconocido;5;mayo;683;2;-1;0;desconocido;no
 35;Servicio;Casado;Secundaria;no;236;si;no;Desconocido;5;mayo;1077;1;-1;0;desconocido;no
-38;Tecnico;Casado;Secundaria;no;1012;si;no;Desconocido;5;mayo;416;1;-1;0;desconocido;no
-36;Administrador;Casado;Superior;no;844;si;no;Desconocido;5;mayo;146;2;-1;0;desconocido;no
-58;Jubilado;Casado;Primaria;no;940;si;no;Desconocido;5;mayo;167;1;-1;0;desconocido;no
-40;Servicio;Divorciado;Desconocido;no;17536;si;no;Desconocido;5;mayo;315;1;-1;0;desconocido;no
-54;Gerencia;Casado;Secundaria;no;16320;no;no;Desconocido;5;mayo;140;1;-1;0;desconocido;no
+;Tecnico;Casado;Secundaria;no;1012;si;no;Desconocido;5;mayo;416;1;-1;0;desconocido;no
+;Administrador;Casado;Superior;no;844;si;no;Desconocido;5;mayo;146;2;-1;0;desconocido;no
+;Jubilado;Casado;Primaria;no;940;si;no;Desconocido;5;mayo;167;1;-1;0;desconocido;no
+;Servicio;Divorciado;Desconocido;no;17536;si;no;Desconocido;5;mayo;315;1;-1;0;desconocido;no
+;Gerencia;Casado;Secundaria;no;16320;no;no;Desconocido;5;mayo;140;1;-1;0;desconocido;no
 34;Obrero;Soltero;Secundaria;no;212;si;si;Desconocido;5;mayo;346;1;-1;0;desconocido;no
 31;Gerencia;Soltero;Superior;no;0;si;no;Desconocido;5;mayo;562;1;-1;0;desconocido;no
 51;Jubilado;Casado;Secundaria;no;8508;si;no;Desconocido;5;mayo;172;1;-1;0;desconocido;no
@@ -203,7 +203,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 48;Independiente;Casado;Superior;no;28;si;no;Desconocido;5;mayo;286;1;-1;0;desconocido;no
 44;Obrero;Casado;Secundaria;no;2300;si;no;Desconocido;5;mayo;477;1;-1;0;desconocido;no
 35;Estudiante;Soltero;Desconocido;no;1192;si;no;Desconocido;5;mayo;611;2;-1;0;desconocido;no
-35;Servicio;Casado;Secundaria;no;0;si;no;Desconocido;5;mayo;471;1;-1;0;desconocido;no
+;Servicio;Casado;Secundaria;no;0;si;no;Desconocido;5;mayo;471;1;-1;0;desconocido;no
 50;Servicio;Casado;Secundaria;no;22796;si;no;Desconocido;5;mayo;381;2;-1;0;desconocido;no
 41;Gerencia;Casado;Superior;no;704;si;si;Desconocido;5;mayo;42;1;-1;0;desconocido;no
 41;Gerencia;Casado;Superior;no;2068;si;no;Desconocido;5;mayo;251;1;-1;0;desconocido;no
@@ -224,7 +224,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 35;Empresario;Divorciado;Secundaria;no;-276;si;no;Desconocido;5;mayo;300;1;-1;0;desconocido;no
 55;Jubilado;Casado;Secundaria;no;0;no;si;Desconocido;5;mayo;136;1;-1;0;desconocido;no
 43;Tecnico;Divorciado;Desconocido;no;820;si;no;Desconocido;5;mayo;1419;1;-1;0;desconocido;no
-48;Obrero;Casado;Primaria;no;1112;si;no;Desconocido;5;mayo;125;2;-1;0;desconocido;no
+;Obrero;Casado;Primaria;no;1112;si;no;Desconocido;5;mayo;125;2;-1;0;desconocido;no
 58;Gerencia;Casado;Desconocido;no;4260;si;no;Desconocido;5;mayo;213;3;-1;0;desconocido;no
 33;Gerencia;Soltero;Superior;no;136;si;no;Desconocido;5;mayo;27;1;-1;0;desconocido;no
 36;Obrero;Casado;Desconocido;no;4132;no;no;Desconocido;5;mayo;238;2;-1;0;desconocido;no
@@ -264,7 +264,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 37;Tecnico;Casado;Secundaria;no;1100;si;no;Desconocido;5;mayo;132;1;-1;0;desconocido;no
 42;Gerencia;Divorciado;Superior;no;2968;si;no;Desconocido;5;mayo;58;3;-1;0;desconocido;no
 41;Empresario;Casado;Primaria;no;;si;no;Desconocido;5;mayo;151;1;-1;0;desconocido;no
-30;Estudiante;Soltero;Superior;no;100;si;no;Desconocido;5;mayo;89;2;-1;0;desconocido;no
+;Estudiante;Soltero;Superior;no;100;si;no;Desconocido;5;mayo;89;2;-1;0;desconocido;no
 37;Gerencia;Soltero;Superior;no;2400;si;no;Desconocido;5;mayo;152;1;-1;0;desconocido;no
 39;;Divorciado;Secundaria;no;-1396;si;no;Desconocido;5;mayo;611;2;-1;0;desconocido;no
 41;Obrero;Casado;Primaria;no;732;si;si;Desconocido;5;mayo;110;2;-1;0;desconocido;no
@@ -283,7 +283,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 41;Administrador;Casado;Secundaria;no;-248;si;si;Desconocido;5;mayo;55;2;-1;0;desconocido;no
 54;Tecnico;Casado;Superior;no;1032;no;no;Desconocido;5;mayo;310;4;-1;0;desconocido;no
 58;Obrero;Casado;Primaria;no;304;si;no;Desconocido;5;mayo;156;2;-1;0;desconocido;no
-30;Obrero;Soltero;Secundaria;no;0;si;no;Desconocido;5;mayo;5;2;-1;0;desconocido;no
+;Obrero;Soltero;Secundaria;no;0;si;no;Desconocido;5;mayo;5;2;-1;0;desconocido;no
 33;Administrador;Soltero;Secundaria;no;1408;si;no;Desconocido;5;mayo;225;2;-1;0;desconocido;no
 47;Administrador;Casado;Secundaria;no;1472;si;no;Desconocido;5;mayo;125;2;-1;0;desconocido;no
 50;Tecnico;Soltero;Superior;no;1356;si;no;Desconocido;5;mayo;2;3;-1;0;desconocido;no
@@ -303,7 +303,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 51;Administrador;Casado;Secundaria;no;2124;si;no;Desconocido;5;mayo;267;2;-1;0;desconocido;no
 57;Jubilado;Casado;Secundaria;no;844;si;no;Desconocido;5;mayo;248;2;-1;0;desconocido;no
 36;Servicio;Soltero;Secundaria;no;248;si;no;Desconocido;5;mayo;215;2;-1;0;desconocido;no
-53;Servicio;Casado;Desconocido;no;1028;si;;Desconocido;5;mayo;209;2;-1;0;desconocido;no
+;Servicio;Casado;Desconocido;no;1028;si;;Desconocido;5;mayo;209;2;-1;0;desconocido;no
 50;Tecnico;Casado;Secundaria;no;4936;si;no;Desconocido;5;mayo;205;2;-1;0;desconocido;no
 54;Gerencia;Casado;Superior;no;1252;si;no;Desconocido;5;mayo;83;2;-1;0;desconocido;no
 55;Obrero;Casado;Secundaria;;356;si;no;Desconocido;5;mayo;106;3;-1;0;desconocido;no
@@ -324,7 +324,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 48;Gerencia;Casado;Secundaria;no;644;si;no;Desconocido;5;mayo;224;3;-1;0;desconocido;no
 32;Tecnico;Divorciado;Superior;no;10232;no;no;Desconocido;5;mayo;148;2;-1;0;desconocido;no
 31;Administrador;Soltero;Secundaria;no;392;si;no;Desconocido;5;mayo;196;2;-1;0;desconocido;no
-55;Gerencia;Soltero;Superior;no;460;no;no;Desconocido;5;mayo;111;4;-1;0;desconocido;no
+;Gerencia;Soltero;Superior;no;460;no;no;Desconocido;5;mayo;111;4;-1;0;desconocido;no
 40;Obrero;Soltero;Secundaria;no;1744;si;no;Desconocido;5;mayo;231;3;-1;0;desconocido;no
 47;Tecnico;Casado;Superior;no;3324;si;no;Desconocido;5;mayo;316;3;-1;0;desconocido;no
 57;Tecnico;Casado;Desconocido;;824;;no;Desconocido;5;mayo;216;3;-1;0;desconocido;no
@@ -342,7 +342,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 41;Obrero;Soltero;Secundaria;no;3368;si;no;Desconocido;5;mayo;144;3;-1;0;desconocido;no
 43;Gerencia;Divorciado;Secundaria;no;2772;si;no;Desconocido;5;mayo;124;3;-1;0;desconocido;no
 40;Obrero;Divorciado;Secundaria;no;-1332;si;no;Desconocido;5;mayo;183;2;-1;0;desconocido;no
-50;Obrero;Casado;Primaria;no;6132;si;no;Desconocido;5;mayo;325;2;-1;0;desconocido;no
+;Obrero;Casado;Primaria;no;6132;si;no;Desconocido;5;mayo;325;2;-1;0;desconocido;no
 34;Gerencia;Casado;Superior;no;184;si;no;Desconocido;5;mayo;39;4;-1;0;desconocido;no
 53;Servicio;Casado;Desconocido;no;;no;;Desconocido;5;mayo;503;2;-1;0;desconocido;no
 45;;Casado;Secundaria;no;176;si;no;Desconocido;5;mayo;95;4;-1;0;desconocido;no
@@ -396,7 +396,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 43;Obrero;Casado;Secundaria;no;4820;si;no;Desconocido;6;mayo;769;2;-1;0;desconocido;no
 32;Tecnico;Soltero;Secundaria;no;0;si;si;Desconocido;6;mayo;135;3;-1;0;desconocido;no
 40;Administrador;Soltero;Secundaria;no;1052;si;no;Desconocido;6;mayo;231;1;-1;0;desconocido;no
-38;Administrador;Casado;Secundaria;no;4;no;no;Desconocido;6;mayo;76;1;-1;0;desconocido;no
+;Administrador;Casado;Secundaria;no;4;no;no;Desconocido;6;mayo;76;1;-1;0;desconocido;no
 34;Obrero;Casado;Secundaria;no;1132;no;si;Desconocido;6;mayo;199;1;-1;0;desconocido;no
 47;Obrero;Casado;Primaria;no;824;si;no;Desconocido;6;mayo;152;1;-1;0;desconocido;no
 42;Tareas domesticas;Casado;Primaria;no;68;si;no;Desconocido;6;mayo;124;1;-1;0;desconocido;no
@@ -417,7 +417,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 34;Administrador;Divorciado;Secundaria;no;268;si;no;Desconocido;6;mayo;90;1;-1;0;desconocido;no
 40;Tecnico;Casado;Secundaria;no;308;no;no;Desconocido;6;mayo;505;1;-1;0;desconocido;no
 43;Desempleado;Casado;Secundaria;no;0;si;no;Desconocido;6;mayo;245;1;-1;0;desconocido;no
-52;Obrero;Divorciado;Primaria;no;220;si;si;Desconocido;6;mayo;186;1;-1;0;desconocido;no
+;Obrero;Divorciado;Primaria;no;220;si;si;Desconocido;6;mayo;186;1;-1;0;desconocido;no
 33;Tecnico;Casado;Secundaria;si;288;si;no;Desconocido;6;mayo;623;1;-1;0;desconocido;no
 49;Gerencia;Soltero;Superior;no;652;si;no;Desconocido;6;mayo;496;3;-1;0;desconocido;no
 32;Gerencia;Soltero;Superior;no;604;si;no;Desconocido;6;mayo;118;1;-1;0;desconocido;no
@@ -438,7 +438,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 45;Obrero;Casado;Secundaria;no;156;no;no;Desconocido;6;mayo;241;1;-1;0;desconocido;no
 35;Gerencia;Soltero;Superior;no;2240;si;no;Desconocido;6;mayo;181;1;-1;0;desconocido;no
 58;Tecnico;Divorciado;Secundaria;no;1876;no;no;Desconocido;6;mayo;196;1;-1;0;desconocido;no
-35;Administrador;Casado;Secundaria;no;2120;si;no;Desconocido;6;mayo;149;1;-1;0;desconocido;no
+;Administrador;Casado;Secundaria;no;2120;si;no;Desconocido;6;mayo;149;1;-1;0;desconocido;no
 49;Servicio;Casado;Primaria;no;244;si;no;Desconocido;6;mayo;246;1;-1;0;desconocido;no
 34;Tecnico;Soltero;Superior;no;968;si;no;Desconocido;6;mayo;112;1;-1;0;desconocido;no
 36;Obrero;Casado;Secundaria;no;556;si;no;Desconocido;6;mayo;309;2;-1;0;desconocido;no
@@ -458,7 +458,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 40;Administrador;Soltero;Secundaria;no;-436;si;si;Desconocido;6;mayo;170;1;-1;0;desconocido;no
 37;Tecnico;Casado;Secundaria;no;4;si;no;Desconocido;6;mayo;608;1;-1;0;desconocido;si
 33;Obrero;Soltero;Secundaria;si;-240;no;no;Desconocido;6;mayo;243;1;-1;0;desconocido;no
-35;Obrero;Casado;Secundaria;no;356;si;no;Desconocido;6;mayo;145;2;-1;0;desconocido;no
+;Obrero;Casado;Secundaria;no;356;si;no;Desconocido;6;mayo;145;2;-1;0;desconocido;no
 58;Obrero;Divorciado;Secundaria;no;-44;no;no;Desconocido;6;mayo;112;1;-1;0;desconocido;no
 39;Obrero;Casado;Primaria;no;0;si;no;Desconocido;6;mayo;262;2;-1;0;desconocido;no
 43;Obrero;Casado;Secundaria;no;-2036;si;no;Desconocido;6;mayo;124;1;-1;0;desconocido;no
@@ -482,7 +482,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 51;Obrero;Casado;Primaria;no;4508;si;no;Desconocido;6;mayo;47;1;-1;0;desconocido;no
 41;Tecnico;Casado;Secundaria;no;3484;si;no;Desconocido;6;mayo;145;1;-1;0;desconocido;no
 41;Tecnico;Casado;Secundaria;no;3068;si;si;Desconocido;6;mayo;204;1;-1;0;desconocido;no
-43;Obrero;Casado;Secundaria;no;0;no;no;Desconocido;6;mayo;187;1;-1;0;desconocido;no
+;Obrero;Casado;Secundaria;no;0;no;no;Desconocido;6;mayo;187;1;-1;0;desconocido;no
 30;Servicio;Soltero;Secundaria;no;836;si;no;Desconocido;6;mayo;30;2;-1;0;desconocido;no
 54;Gerencia;Divorciado;Primaria;no;0;no;no;Desconocido;6;mayo;472;1;-1;0;desconocido;no
 43;Obrero;Divorciado;Secundaria;no;440;si;si;Desconocido;6;mayo;448;1;-1;0;desconocido;no
@@ -503,7 +503,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 32;Tecnico;Soltero;Desconocido;no;-680;no;no;Desconocido;6;mayo;46;1;-1;0;desconocido;no
 37;Gerencia;Soltero;Superior;no;920;si;si;Desconocido;6;mayo;374;1;-1;0;desconocido;no
 29;Obrero;Casado;Secundaria;no;36;si;no;Desconocido;6;mayo;349;1;-1;0;desconocido;no
-41;Obrero;Casado;Secundaria;no;3784;si;no;Desconocido;6;mayo;325;1;-1;0;desconocido;no
+;Obrero;Casado;Secundaria;no;3784;si;no;Desconocido;6;mayo;325;1;-1;0;desconocido;no
 45;Obrero;Casado;Primaria;no;5188;si;no;Desconocido;6;mayo;233;2;-1;0;desconocido;no
 57;Jubilado;Divorciado;Secundaria;no;-1324;si;no;Desconocido;6;mayo;531;1;-1;0;desconocido;no
 48;Obrero;Soltero;Secundaria;no;176;si;no;Desconocido;6;mayo;153;1;-1;0;desconocido;no
@@ -524,7 +524,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 52;Administrador;Casado;Secundaria;no;1936;si;no;Desconocido;6;mayo;128;1;-1;0;desconocido;no
 29;Gerencia;Soltero;Superior;no;0;si;no;Desconocido;6;mayo;211;1;-1;0;desconocido;no
 53;Jubilado;Casado;Primaria;no;544;si;no;Desconocido;6;mayo;267;2;-1;0;desconocido;no
-43;Obrero;Casado;Secundaria;no;5340;si;no;Desconocido;6;mayo;371;2;-1;0;desconocido;no
+;Obrero;Casado;Secundaria;no;5340;si;no;Desconocido;6;mayo;371;2;-1;0;desconocido;no
 38;Gerencia;Casado;Secundaria;no;2068;si;no;Desconocido;6;mayo;288;2;-1;0;desconocido;no
 46;Gerencia;Casado;Superior;no;1836;si;no;Desconocido;6;mayo;221;1;-1;0;desconocido;no
 48;Gerencia;Divorciado;Desconocido;no;2196;si;no;Desconocido;6;mayo;427;1;-1;0;desconocido;no
@@ -545,7 +545,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 34;Administrador;Soltero;Secundaria;no;0;si;no;Desconocido;6;mayo;150;1;-1;0;desconocido;no
 40;Desempleado;Soltero;Secundaria;no;44;si;no;Desconocido;6;mayo;43;1;-1;0;desconocido;no
 36;Administrador;Casado;Secundaria;no;2556;si;no;Desconocido;6;mayo;191;1;-1;0;desconocido;no
-59;Obrero;Divorciado;Desconocido;no;496;si;no;Desconocido;6;mayo;26;1;-1;0;desconocido;no
+;Obrero;Divorciado;Desconocido;no;496;si;no;Desconocido;6;mayo;26;1;-1;0;desconocido;no
 45;Obrero;Casado;Secundaria;no;328;si;no;Desconocido;6;mayo;250;1;-1;0;desconocido;no
 36;Independiente;Casado;Superior;no;428;si;no;Desconocido;6;mayo;146;1;-1;0;desconocido;no
 56;Servicio;Casado;Secundaria;no;1892;si;no;Desconocido;6;mayo;416;1;-1;0;desconocido;no
@@ -566,7 +566,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 59;Servicio;Divorciado;Secundaria;no;0;si;si;Desconocido;6;mayo;97;1;-1;0;desconocido;no
 57;Obrero;Casado;Primaria;no;21724;si;si;Desconocido;6;mayo;383;1;-1;0;desconocido;no
 38;Gerencia;Casado;Desconocido;no;7036;si;no;Desconocido;6;mayo;440;1;-1;0;desconocido;no
-46;Desempleado;Casado;Secundaria;no;-500;si;no;Desconocido;6;mayo;23;1;-1;0;desconocido;no
+;Desempleado;Casado;Secundaria;no;-500;si;no;Desconocido;6;mayo;23;1;-1;0;desconocido;no
 34;Obrero;Casado;Secundaria;no;0;no;no;Desconocido;6;mayo;195;1;-1;0;desconocido;no
 28;Servicio;Soltero;Secundaria;no;20360;si;no;Desconocido;6;mayo;1297;3;-1;0;desconocido;si
 38;Tecnico;Casado;Desconocido;no;2292;si;no;Desconocido;6;mayo;87;1;-1;0;desconocido;no
@@ -608,7 +608,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 49;Tecnico;Casado;Desconocido;no;60;no;no;Desconocido;6;mayo;92;2;-1;0;desconocido;no
 51;Obrero;Casado;Primaria;no;2612;si;si;Desconocido;6;mayo;208;1;-1;0;desconocido;no
 43;Independiente;Casado;Secundaria;no;3672;si;no;Desconocido;6;mayo;193;1;-1;0;desconocido;no
-32;Servicio;Casado;Secundaria;no;972;si;si;Desconocido;6;mayo;144;1;-1;0;desconocido;no
+;Servicio;Casado;Secundaria;no;972;si;si;Desconocido;6;mayo;144;1;-1;0;desconocido;no
 29;Tecnico;Soltero;Superior;no;1620;si;no;Desconocido;6;mayo;65;1;-1;0;desconocido;no
 48;Gerencia;Divorciado;Superior;no;5312;si;no;Desconocido;6;mayo;339;1;-1;0;desconocido;no
 55;Servicio;Casado;Primaria;no;1020;si;no;Desconocido;6;mayo;285;1;-1;0;desconocido;no
@@ -629,7 +629,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 54;Tecnico;Divorciado;Secundaria;no;84;si;no;Desconocido;6;mayo;381;2;-1;0;desconocido;no
 34;Administrador;Soltero;Desconocido;no;9736;si;no;Desconocido;6;mayo;218;4;-1;0;desconocido;no
 32;Tecnico;Casado;Secundaria;no;360;si;si;Desconocido;6;mayo;57;2;-1;0;desconocido;no
-56;Administrador;Divorciado;Desconocido;no;16984;si;no;Desconocido;6;mayo;304;2;-1;0;desconocido;no
+;Administrador;Divorciado;Desconocido;no;16984;si;no;Desconocido;6;mayo;304;2;-1;0;desconocido;no
 32;Administrador;Soltero;Superior;no;1580;si;no;Desconocido;6;mayo;241;3;-1;0;desconocido;no
 42;Obrero;Casado;Primaria;no;60;si;no;Desconocido;6;mayo;230;1;-1;0;desconocido;no
 33;Servicio;Casado;Superior;no;340;no;no;Desconocido;6;mayo;262;3;-1;0;desconocido;no
@@ -668,7 +668,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 35;Administrador;Soltero;Secundaria;no;592;si;no;Desconocido;6;mayo;128;2;-1;0;desconocido;no
 40;Tecnico;Soltero;Secundaria;no;800;si;no;Desconocido;6;mayo;322;2;-1;0;desconocido;no
 60;Independiente;Casado;Primaria;no;184;si;no;Desconocido;6;mayo;202;4;-1;0;desconocido;no
-47;Servicio;Divorciado;Secundaria;no;804;si;no;Desconocido;6;mayo;92;2;-1;0;desconocido;no
+;Servicio;Divorciado;Secundaria;no;804;si;no;Desconocido;6;mayo;92;2;-1;0;desconocido;no
 46;Obrero;Casado;Primaria;no;2120;si;no;Desconocido;6;mayo;739;3;-1;0;desconocido;no
 31;Obrero;Soltero;Secundaria;no;0;si;no;Desconocido;6;mayo;273;2;-1;0;desconocido;no
 49;Independiente;Casado;Secundaria;no;4;si;no;Desconocido;6;mayo;260;3;-1;0;desconocido;no
@@ -689,8 +689,8 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 53;Administrador;Casado;Secundaria;no;976;si;si;Desconocido;6;mayo;197;2;-1;0;desconocido;no
 49;Gerencia;Casado;Superior;no;368;si;no;Desconocido;6;mayo;221;2;-1;0;desconocido;no
 40;Obrero;Casado;Primaria;si;0;si;no;Desconocido;6;mayo;64;2;-1;0;desconocido;no
-29;Estudiante;Soltero;Secundaria;no;3792;si;no;Desconocido;6;mayo;75;2;-1;0;desconocido;no
-36;Obrero;Casado;Primaria;no;92;si;no;Desconocido;6;mayo;400;2;-1;0;desconocido;no
+;Estudiante;Soltero;Secundaria;no;3792;si;no;Desconocido;6;mayo;75;2;-1;0;desconocido;no
+;Obrero;Casado;Primaria;no;92;si;no;Desconocido;6;mayo;400;2;-1;0;desconocido;no
 37;Tecnico;Casado;Secundaria;no;2840;si;no;Desconocido;6;mayo;378;3;-1;0;desconocido;no
 39;Servicio;Casado;Secundaria;no;4820;si;no;Desconocido;6;mayo;118;2;-1;0;desconocido;no
 36;Tecnico;Casado;Secundaria;no;1472;si;si;Desconocido;6;mayo;1597;2;-1;0;desconocido;si
@@ -729,7 +729,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 42;Administrador;Casado;Secundaria;no;404;si;no;Desconocido;6;mayo;32;3;-1;0;desconocido;no
 44;Gerencia;Casado;Superior;no;420;si;no;Desconocido;6;mayo;1529;2;-1;0;desconocido;no
 51;Obrero;Divorciado;Primaria;no;1300;si;no;Desconocido;6;mayo;254;2;-1;0;desconocido;no
-49;Obrero;Casado;Primaria;no;792;si;no;Desconocido;6;mayo;200;2;-1;0;desconocido;no
+;Obrero;Casado;Primaria;no;792;si;no;Desconocido;6;mayo;200;2;-1;0;desconocido;no
 47;Empresario;Casado;Desconocido;no;836;si;no;Desconocido;6;mayo;135;2;-1;0;desconocido;no
 37;Obrero;Casado;Secundaria;no;732;si;no;Desconocido;6;mayo;112;4;-1;0;desconocido;no
 34;Gerencia;Casado;Superior;no;420;si;no;Desconocido;6;mayo;314;3;-1;0;desconocido;no
@@ -750,7 +750,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 37;Obrero;Soltero;Secundaria;no;352;si;no;Desconocido;6;mayo;128;2;-1;0;desconocido;no
 30;Gerencia;Casado;Superior;no;128;si;no;Desconocido;6;mayo;122;3;-1;0;desconocido;no
 30;Administrador;Soltero;Secundaria;no;460;si;no;Desconocido;6;mayo;66;3;-1;0;desconocido;no
-54;Obrero;Casado;Secundaria;no;1016;si;no;Desconocido;6;mayo;66;2;-1;0;desconocido;no
+;Obrero;Casado;Secundaria;no;1016;si;no;Desconocido;6;mayo;66;2;-1;0;desconocido;no
 36;Gerencia;Casado;Superior;no;576;si;no;Desconocido;6;mayo;164;2;-1;0;desconocido;no
 55;Desempleado;Casado;Superior;no;1532;no;no;Desconocido;6;mayo;343;3;-1;0;desconocido;no
 37;Administrador;Soltero;Secundaria;no;2276;si;si;Desconocido;6;mayo;126;2;-1;0;desconocido;no
@@ -792,7 +792,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 32;Obrero;Soltero;Secundaria;no;1204;si;no;Desconocido;7;mayo;395;2;-1;0;desconocido;no
 44;Obrero;Casado;Primaria;no;2012;si;no;Desconocido;7;mayo;629;2;-1;0;desconocido;no
 40;Jubilado;Casado;Primaria;no;1628;si;no;Desconocido;7;mayo;502;1;-1;0;desconocido;no
-31;Obrero;Soltero;Secundaria;no;212;si;no;Desconocido;7;mayo;446;1;-1;0;desconocido;no
+;Obrero;Soltero;Secundaria;no;212;si;no;Desconocido;7;mayo;446;1;-1;0;desconocido;no
 46;Independiente;Casado;Superior;no;9212;si;no;Desconocido;7;mayo;241;1;-1;0;desconocido;no
 43;Gerencia;Casado;Superior;no;576;si;no;Desconocido;7;mayo;131;3;-1;0;desconocido;no
 34;Servicio;Casado;Secundaria;no;820;si;no;Desconocido;7;mayo;312;1;-1;0;desconocido;no
@@ -813,7 +813,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 45;Independiente;Divorciado;Secundaria;no;-556;si;no;Desconocido;7;mayo;152;3;-1;0;desconocido;no
 47;Obrero;Casado;Desconocido;no;2932;si;no;Desconocido;7;mayo;268;1;-1;0;desconocido;no
 29;Tecnico;Soltero;Superior;no;0;si;no;Desconocido;7;mayo;104;2;-1;0;desconocido;no
-57;Servicio;Casado;Secundaria;no;4;no;no;Desconocido;7;mayo;852;1;-1;0;desconocido;no
+;Servicio;Casado;Secundaria;no;4;no;no;Desconocido;7;mayo;852;1;-1;0;desconocido;no
 45;Obrero;Casado;Primaria;no;388;si;no;Desconocido;7;mayo;923;3;-1;0;desconocido;no
 31;Obrero;Soltero;Primaria;no;1740;si;no;Desconocido;7;mayo;159;2;-1;0;desconocido;no
 31;Gerencia;Divorciado;Superior;no;0;si;no;Desconocido;7;mayo;953;3;-1;0;desconocido;no
@@ -834,7 +834,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 37;Obrero;Casado;Secundaria;no;64;si;no;Desconocido;7;mayo;250;1;-1;0;desconocido;no
 42;Gerencia;Casado;Superior;no;1544;si;no;Desconocido;7;mayo;168;1;-1;0;desconocido;no
 35;Tecnico;Soltero;Secundaria;no;2156;si;no;Desconocido;7;mayo;520;1;-1;0;desconocido;no
-44;Tecnico;Divorciado;Secundaria;no;-1316;si;no;Desconocido;7;mayo;171;1;-1;0;desconocido;no
+;Tecnico;Divorciado;Secundaria;no;-1316;si;no;Desconocido;7;mayo;171;1;-1;0;desconocido;no
 30;Servicio;Soltero;Secundaria;no;-696;si;no;Desconocido;7;mayo;113;1;-1;0;desconocido;no
 45;Empresario;Casado;Secundaria;no;272;si;no;Desconocido;7;mayo;254;1;-1;0;desconocido;no
 35;Obrero;Soltero;Desconocido;si;-2128;si;no;Desconocido;7;mayo;149;1;-1;0;desconocido;no
@@ -855,7 +855,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 38;Obrero;Casado;Secundaria;no;1504;si;no;Desconocido;7;mayo;1521;1;-1;0;desconocido;no
 43;Obrero;Divorciado;Secundaria;no;1480;si;no;Desconocido;7;mayo;216;1;-1;0;desconocido;no
 47;Administrador;Soltero;Secundaria;no;2376;si;no;Desconocido;7;mayo;161;1;-1;0;desconocido;no
-47;Obrero;Casado;Secundaria;no;1548;si;no;Desconocido;7;mayo;122;2;-1;0;desconocido;no
+;Obrero;Casado;Secundaria;no;1548;si;no;Desconocido;7;mayo;122;2;-1;0;desconocido;no
 38;Servicio;Casado;Secundaria;no;832;si;no;Desconocido;7;mayo;800;1;-1;0;desconocido;no
 40;Obrero;Casado;Secundaria;no;2252;si;no;Desconocido;7;mayo;615;1;-1;0;desconocido;no
 33;Servicio;Divorciado;Secundaria;no;1568;si;si;Desconocido;7;mayo;254;1;-1;0;desconocido;no
@@ -876,7 +876,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 55;Gerencia;Divorciado;Superior;no;2208;no;no;Desconocido;7;mayo;241;2;-1;0;desconocido;no
 32;Obrero;Divorciado;Primaria;no;1892;si;no;Desconocido;7;mayo;204;2;-1;0;desconocido;no
 37;Desconocido;Soltero;Desconocido;no;1656;si;no;Desconocido;7;mayo;131;1;-1;0;desconocido;no
-45;Obrero;Casado;Secundaria;no;616;si;no;Desconocido;7;mayo;1138;1;-1;0;desconocido;si
+;Obrero;Casado;Secundaria;no;616;si;no;Desconocido;7;mayo;1138;1;-1;0;desconocido;si
 31;Tecnico;Casado;Secundaria;no;1376;si;no;Desconocido;7;mayo;123;1;-1;0;desconocido;no
 38;Administrador;Casado;Secundaria;no;32;si;no;Desconocido;7;mayo;125;1;-1;0;desconocido;no
 37;Servicio;Casado;Secundaria;no;312;si;no;Desconocido;7;mayo;295;2;-1;0;desconocido;no
@@ -897,7 +897,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 59;Obrero;Casado;Primaria;no;916;si;si;Desconocido;7;mayo;19;1;-1;0;desconocido;no
 44;Obrero;Casado;Primaria;no;572;si;no;Desconocido;7;mayo;153;1;-1;0;desconocido;no
 38;Administrador;Soltero;Secundaria;no;400;si;no;Desconocido;7;mayo;786;1;-1;0;desconocido;si
-49;Administrador;Casado;Secundaria;no;1304;si;no;Desconocido;7;mayo;99;2;-1;0;desconocido;no
+;Administrador;Casado;Secundaria;no;1304;si;no;Desconocido;7;mayo;99;2;-1;0;desconocido;no
 43;Obrero;Casado;Secundaria;no;668;si;no;Desconocido;7;mayo;243;1;-1;0;desconocido;no
 52;Administrador;Soltero;Secundaria;no;2180;si;no;Desconocido;7;mayo;260;1;-1;0;desconocido;no
 40;Administrador;Casado;Secundaria;no;8400;si;si;Desconocido;7;mayo;164;2;-1;0;desconocido;no
@@ -918,8 +918,8 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 40;Servicio;Soltero;Superior;no;35292;si;no;Desconocido;7;mayo;378;1;-1;0;desconocido;no
 28;Obrero;Soltero;Secundaria;no;388;si;no;Desconocido;7;mayo;67;1;-1;0;desconocido;no
 38;Obrero;Casado;Desconocido;no;20;si;no;Desconocido;7;mayo;221;2;-1;0;desconocido;no
-37;Desempleado;Divorciado;Secundaria;no;296;si;no;Desconocido;7;mayo;150;1;-1;0;desconocido;no
-44;Administrador;Casado;Secundaria;no;234176;si;no;Desconocido;7;mayo;144;2;-1;0;desconocido;no
+;Desempleado;Divorciado;Secundaria;no;296;si;no;Desconocido;7;mayo;150;1;-1;0;desconocido;no
+;Administrador;Casado;Secundaria;no;234176;si;no;Desconocido;7;mayo;144;2;-1;0;desconocido;no
 41;Tecnico;Casado;Secundaria;no;676;si;no;Desconocido;7;mayo;296;2;-1;0;desconocido;no
 37;Independiente;Casado;Superior;no;1776;si;no;Desconocido;7;mayo;401;2;-1;0;desconocido;no
 30;Servicio;Soltero;Superior;no;2168;si;no;Desconocido;7;mayo;435;2;-1;0;desconocido;no
@@ -956,7 +956,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 43;Administrador;Soltero;Desconocido;no;348;si;no;Desconocido;7;mayo;328;2;-1;0;desconocido;no
 42;Tecnico;Casado;Superior;no;2576;si;no;Desconocido;7;mayo;19;1;-1;0;desconocido;no
 28;Obrero;Casado;Secundaria;no;900;si;si;Desconocido;7;mayo;866;2;-1;0;desconocido;no
-57;Jubilado;Casado;Secundaria;no;2008;si;no;Desconocido;7;mayo;229;3;-1;0;desconocido;no
+;Jubilado;Casado;Secundaria;no;2008;si;no;Desconocido;7;mayo;229;3;-1;0;desconocido;no
 38;Servicio;Casado;Secundaria;no;-128;si;no;Desconocido;7;mayo;154;2;-1;0;desconocido;no
 39;Obrero;Casado;Primaria;no;424;si;no;Desconocido;7;mayo;56;1;-1;0;desconocido;no
 36;Tecnico;Casado;Superior;no;1204;si;no;Desconocido;7;mayo;1581;2;-1;0;desconocido;no
@@ -27842,22 +27842,22 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 51;Gerencia;Casado;Superior;no;1636;si;no;Celular;28;enero;203;1;-1;0;desconocido;no
 45;Tecnico;Casado;Desconocido;no;7752;no;no;Celular;28;enero;574;1;-1;0;desconocido;no
 55;Obrero;Casado;Secundaria;no;372;no;si;Celular;28;enero;111;1;-1;0;desconocido;no
-57;Jubilado;Casado;Superior;no;136;no;si;Celular;28;enero;139;1;-1;0;desconocido;no
-39;Desconocido;Soltero;Desconocido;no;0;no;no;Telefono;28;enero;28;1;-1;0;desconocido;no
-41;Administrador;Divorciado;Secundaria;no;4352;si;no;Celular;28;enero;138;1;-1;0;desconocido;no
-37;Tecnico;Casado;Secundaria;no;14880;si;no;Celular;28;enero;561;1;-1;0;desconocido;no
-46;Gerencia;Casado;Desconocido;no;2552;si;no;Celular;28;enero;68;1;-1;0;desconocido;no
-54;Desempleado;Divorciado;Secundaria;no;2200;no;no;Celular;28;enero;131;1;-1;0;desconocido;no
-26;Tecnico;Soltero;Secundaria;no;12976;no;no;Celular;28;enero;390;1;-1;0;desconocido;no
-31;Tecnico;Soltero;Superior;no;212;no;no;Celular;28;enero;97;2;-1;0;desconocido;no
-59;Desempleado;Casado;Secundaria;no;1236;no;no;Celular;28;enero;300;1;-1;0;desconocido;no
-48;Tecnico;Casado;Secundaria;no;0;no;no;Celular;28;enero;142;1;-1;0;desconocido;no
-44;Obrero;Casado;Primaria;no;32;no;no;Celular;28;enero;531;1;-1;0;desconocido;no
-53;Tecnico;Casado;Secundaria;no;2116;si;no;Celular;28;enero;558;1;-1;0;desconocido;no
-54;Empresario;Casado;Superior;no;4516;no;si;Celular;28;enero;242;1;184;8;fracaso;no
-57;Gerencia;Casado;Secundaria;no;0;no;no;Celular;28;enero;132;1;-1;0;desconocido;no
-44;Desempleado;Soltero;Secundaria;no;15780;no;no;Celular;28;enero;255;1;-1;0;desconocido;no
-60;Jubilado;Casado;Primaria;no;4864;no;no;Celular;28;enero;156;1;-1;0;desconocido;no
+;Jubilado;Casado;Superior;no;136;no;si;Celular;28;enero;139;1;-1;0;desconocido;no
+;Desconocido;Soltero;Desconocido;no;0;no;no;Telefono;28;enero;28;1;-1;0;desconocido;no
+;Administrador;Divorciado;Secundaria;no;4352;si;no;Celular;28;enero;138;1;-1;0;desconocido;no
+;Tecnico;Casado;Secundaria;no;14880;si;no;Celular;28;enero;561;1;-1;0;desconocido;no
+;Gerencia;Casado;Desconocido;no;2552;si;no;Celular;28;enero;68;1;-1;0;desconocido;no
+;Desempleado;Divorciado;Secundaria;no;2200;no;no;Celular;28;enero;131;1;-1;0;desconocido;no
+;Tecnico;Soltero;Secundaria;no;12976;no;no;Celular;28;enero;390;1;-1;0;desconocido;no
+;Tecnico;Soltero;Superior;no;212;no;no;Celular;28;enero;97;2;-1;0;desconocido;no
+;Desempleado;Casado;Secundaria;no;1236;no;no;Celular;28;enero;300;1;-1;0;desconocido;no
+;Tecnico;Casado;Secundaria;no;0;no;no;Celular;28;enero;142;1;-1;0;desconocido;no
+;Obrero;Casado;Primaria;no;32;no;no;Celular;28;enero;531;1;-1;0;desconocido;no
+;Tecnico;Casado;Secundaria;no;2116;si;no;Celular;28;enero;558;1;-1;0;desconocido;no
+;Empresario;Casado;Superior;no;4516;no;si;Celular;28;enero;242;1;184;8;fracaso;no
+;Gerencia;Casado;Secundaria;no;0;no;no;Celular;28;enero;132;1;-1;0;desconocido;no
+;Desempleado;Soltero;Secundaria;no;15780;no;no;Celular;28;enero;255;1;-1;0;desconocido;no
+;Jubilado;Casado;Primaria;no;4864;no;no;Celular;28;enero;156;1;-1;0;desconocido;no
 45;Tareas domesticas;Casado;Primaria;no;6104;si;no;Telefono;28;enero;109;1;-1;0;desconocido;no
 41;Obrero;Casado;Primaria;no;2480;no;no;Celular;28;enero;314;1;-1;0;desconocido;no
 41;Servicio;Divorciado;Secundaria;no;5600;no;no;Celular;28;enero;191;1;-1;0;desconocido;no
@@ -27876,7 +27876,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 38;Obrero;Casado;Secundaria;no;420;si;no;Celular;28;enero;158;1;265;2;fracaso;no
 46;Gerencia;Divorciado;Superior;no;776;no;no;Celular;28;enero;97;1;-1;0;desconocido;no
 50;Obrero;Soltero;Superior;no;872;no;no;Celular;28;enero;268;1;-1;0;desconocido;no
-45;Gerencia;Casado;Secundaria;no;0;si;si;Celular;28;enero;625;1;-1;0;desconocido;no
+;Gerencia;Casado;Secundaria;no;0;si;si;Celular;28;enero;625;1;-1;0;desconocido;no
 35;Obrero;Casado;Primaria;no;84;no;no;Celular;28;enero;121;1;-1;0;desconocido;no
 44;Administrador;Casado;Primaria;no;508;si;no;Celular;28;enero;273;1;-1;0;desconocido;no
 55;Desempleado;Casado;Secundaria;no;2048;no;no;Celular;28;enero;70;1;-1;0;desconocido;no
@@ -27915,7 +27915,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 45;Tecnico;Divorciado;Secundaria;no;1196;si;no;Celular;28;enero;368;1;-1;0;desconocido;no
 59;Jubilado;Casado;Secundaria;no;4264;si;no;Celular;28;enero;273;2;-1;0;desconocido;no
 54;Gerencia;Casado;Desconocido;no;3504;si;no;Celular;28;enero;66;2;198;3;fracaso;no
-47;Desempleado;Casado;Primaria;no;17096;no;no;Telefono;28;enero;852;2;-1;0;desconocido;no
+;Desempleado;Casado;Primaria;no;17096;no;no;Telefono;28;enero;852;2;-1;0;desconocido;no
 28;Gerencia;Casado;Superior;no;1056;no;no;Celular;28;enero;183;1;-1;0;desconocido;no
 55;Administrador;Casado;Desconocido;no;392;no;si;Celular;28;enero;214;1;-1;0;desconocido;no
 59;Jubilado;Casado;Secundaria;no;2096;no;no;Celular;28;enero;166;2;-1;0;desconocido;no
@@ -27934,7 +27934,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 45;Servicio;Casado;Secundaria;no;-128;no;no;Celular;28;enero;56;2;-1;0;desconocido;no
 29;Desconocido;Soltero;Secundaria;no;6008;no;no;Celular;28;enero;59;1;-1;0;desconocido;no
 37;Tareas domesticas;Soltero;Primaria;no;0;no;no;Celular;28;enero;399;1;-1;0;desconocido;no
-59;Administrador;Casado;Secundaria;no;5820;si;no;Celular;28;enero;222;2;191;1;fracaso;no
+;Administrador;Casado;Secundaria;no;5820;si;no;Celular;28;enero;222;2;191;1;fracaso;no
 33;Gerencia;Soltero;Superior;no;860;si;no;Celular;28;enero;144;1;-1;0;desconocido;no
 41;Administrador;Casado;Secundaria;no;804;no;no;Celular;28;enero;114;1;-1;0;desconocido;no
 54;Administrador;Casado;Secundaria;si;-4356;no;si;Celular;28;enero;105;2;-1;0;desconocido;no
@@ -27969,7 +27969,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 37;Obrero;Casado;Secundaria;no;1668;no;no;Celular;28;enero;389;1;181;5;fracaso;no
 32;Estudiante;Casado;Secundaria;no;6776;si;no;Celular;28;enero;929;1;-1;0;desconocido;no
 43;Gerencia;Soltero;Superior;no;1516;si;no;Celular;28;enero;74;1;-1;0;desconocido;no
-48;Tecnico;Casado;Secundaria;no;2188;no;no;Celular;28;enero;74;1;176;2;fracaso;no
+;Tecnico;Casado;Secundaria;no;2188;no;no;Celular;28;enero;74;1;176;2;fracaso;no
 33;Gerencia;Soltero;Superior;no;2904;no;no;Celular;28;enero;219;1;-1;0;desconocido;no
 39;Tecnico;Soltero;Superior;no;1736;si;no;Celular;28;enero;169;2;-1;0;desconocido;no
 54;Tecnico;Divorciado;Secundaria;no;0;si;no;Celular;28;enero;87;2;-1;0;desconocido;no
@@ -28005,7 +28005,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 42;Tecnico;Soltero;Secundaria;no;-1284;no;no;Celular;28;enero;230;2;-1;0;desconocido;no
 46;Servicio;Divorciado;Secundaria;no;3020;no;no;Celular;28;enero;246;1;-1;0;desconocido;no
 52;Tecnico;Casado;Secundaria;no;4132;no;no;Celular;28;enero;198;3;-1;0;desconocido;no
-47;Obrero;Casado;Primaria;no;4944;no;no;Celular;28;enero;163;1;-1;0;desconocido;no
+;Obrero;Casado;Primaria;no;4944;no;no;Celular;28;enero;163;1;-1;0;desconocido;no
 49;Tecnico;Casado;Secundaria;no;708;si;si;Celular;28;enero;90;1;204;1;fracaso;no
 48;Desempleado;Divorciado;Primaria;no;3360;no;no;Celular;28;enero;196;1;-1;0;desconocido;no
 41;Administrador;Soltero;Secundaria;no;876;si;no;Celular;28;enero;119;1;268;1;otro;no
@@ -28083,7 +28083,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 28;Gerencia;Soltero;Superior;no;380;no;no;Telefono;28;enero;283;4;-1;0;desconocido;no
 53;Tecnico;Casado;Primaria;no;1244;no;no;Telefono;28;enero;82;3;-1;0;desconocido;no
 35;Administrador;Divorciado;Secundaria;no;7212;no;no;Celular;28;enero;61;2;-1;0;desconocido;no
-30;Gerencia;Casado;Superior;no;4940;no;no;Celular;28;enero;119;2;-1;0;desconocido;no
+;Gerencia;Casado;Superior;no;4940;no;no;Celular;28;enero;119;2;-1;0;desconocido;no
 46;Administrador;Casado;Secundaria;no;5056;no;no;Telefono;28;enero;100;2;-1;0;desconocido;no
 54;Administrador;Casado;Desconocido;no;-96;no;no;Telefono;28;enero;98;2;-1;0;desconocido;no
 54;Obrero;Casado;Desconocido;no;1240;si;no;Telefono;28;enero;526;4;258;3;otro;no
@@ -28101,8 +28101,8 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 29;Servicio;Casado;Secundaria;no;1504;no;si;Telefono;28;enero;49;3;183;4;fracaso;no
 53;Independiente;Divorciado;Superior;no;32;no;no;Celular;28;enero;201;3;-1;0;desconocido;no
 35;Administrador;Casado;Secundaria;no;-1028;no;no;Celular;28;enero;117;3;-1;0;desconocido;no
-46;Tecnico;Soltero;Desconocido;no;2312;no;no;Celular;28;enero;404;3;-1;0;desconocido;no
-30;Tecnico;Soltero;Secundaria;no;3200;no;no;Telefono;28;enero;60;2;-1;0;desconocido;no
+;Tecnico;Soltero;Desconocido;no;2312;no;no;Celular;28;enero;404;3;-1;0;desconocido;no
+;Tecnico;Soltero;Secundaria;no;3200;no;no;Telefono;28;enero;60;2;-1;0;desconocido;no
 40;Administrador;Divorciado;Secundaria;no;1596;no;no;Celular;28;enero;246;2;-1;0;desconocido;no
 45;Obrero;Casado;Secundaria;no;-384;no;no;Celular;28;enero;517;2;-1;0;desconocido;no
 51;Tecnico;Casado;Desconocido;no;1652;si;no;Telefono;28;enero;82;2;254;2;fracaso;no
@@ -28158,7 +28158,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 35;Tareas domesticas;Casado;Superior;no;11520;no;no;Celular;29;enero;42;1;-1;0;desconocido;no
 37;Desempleado;Casado;Secundaria;no;19076;no;no;Celular;29;enero;124;1;-1;0;desconocido;no
 34;Administrador;Soltero;Secundaria;no;2692;si;no;Celular;29;enero;89;1;260;2;fracaso;no
-37;Desempleado;Casado;Secundaria;no;344;no;no;Celular;29;enero;1424;1;-1;0;desconocido;no
+;Desempleado;Casado;Secundaria;no;344;no;no;Celular;29;enero;1424;1;-1;0;desconocido;no
 39;Administrador;Casado;Secundaria;no;1088;si;si;Celular;29;enero;199;1;234;2;fracaso;no
 35;Desempleado;Soltero;Secundaria;no;884;no;no;Celular;29;enero;374;1;-1;0;desconocido;no
 48;Servicio;Soltero;Secundaria;no;532;si;si;Celular;29;enero;451;1;197;1;fracaso;no
@@ -28213,7 +28213,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 53;Jubilado;Casado;Superior;no;7080;no;no;Celular;29;enero;147;1;-1;0;desconocido;no
 49;Obrero;Casado;Primaria;no;1596;no;no;Celular;29;enero;679;1;-1;0;desconocido;no
 59;Gerencia;Casado;Secundaria;no;4980;no;no;Celular;29;enero;285;1;-1;0;desconocido;no
-31;Gerencia;Soltero;Superior;no;4480;si;no;Celular;29;enero;217;2;239;1;otro;no
+;Gerencia;Soltero;Superior;no;4480;si;no;Celular;29;enero;217;2;239;1;otro;no
 33;Tecnico;Casado;Secundaria;no;88;no;no;Celular;29;enero;127;1;-1;0;desconocido;no
 48;Servicio;Casado;Primaria;no;2868;no;no;Celular;29;enero;450;1;-1;0;desconocido;no
 41;Administrador;Soltero;Secundaria;no;5288;si;no;Celular;29;enero;58;1;266;1;fracaso;no
@@ -28291,7 +28291,7 @@ edad;trabajo;estado civil;educacion;morosidad;saldo;vivienda;préstamo;contacto;d
 40;Obrero;Divorciado;Secundaria;no;376;si;no;Celular;29;enero;121;1;245;1;fracaso;no
 38;Administrador;Casado;Secundaria;no;-964;no;no;Celular;29;enero;570;2;-1;0;desconocido;no
 35;Jubilado;Casado;Primaria;no;1140;si;no;Celular;29;enero;136;1;-1;0;desconocido;no
-58;Jubilado;Divorciado;Superior;no;1996;si;si;Celular;29;enero;181;1;-1;0;desconocido;no
+;Jubilado;Divorciado;Superior;no;1996;si;si;Celular;29;enero;181;1;-1;0;desconocido;no
 38;Administrador;Casado;Secundaria;no;-132;no;no;Celular;29;enero;162;1;-1;0;desconocido;no
 30;Servicio;Soltero;Secundaria;no;772;si;no;Celular;29;enero;326;1;244;2;fracaso;no
 26;Gerencia;Casado;Superior;no;13440;si;no;Celular;29;enero;774;1;-1;0;desconocido;no
